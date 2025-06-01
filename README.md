@@ -1,4 +1,4 @@
-![logo](https://github.com/Gulshanray/Gulshanray/blob/main/Gulshan.png)
+
 
 <h1 align="center">Hi 👋, I'm Subham kumar</h1>
 <h3 align="center">I am a Full Stack Developer from India</h3>
